@@ -1,0 +1,8 @@
+# editor
+*~
+
+# python
+*.pyc
+
+# temp
+tmp
